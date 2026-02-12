@@ -1,0 +1,130 @@
+[
+    {
+        "id": "multivariable-calculus",
+        "title": "Multivariable Calculus (MATH 2551)",
+        "provider": "Georgia Tech",
+        "date": "Advanced Standing",
+        "description": "<p>Vector calculus including partial derivatives, multiple integrals, line and surface integrals, and theorems of Green, Gauss, and Stokes.</p>",
+        "category": "Mathematical Foundations"
+    },
+    {
+        "id": "applied-combinatorics",
+        "title": "Applied Combinatorics (MATH 3012)",
+        "provider": "Georgia Tech",
+        "date": "Advanced Standing",
+        "description": "<p>Combinatorial methods including counting techniques, generating functions, graph theory fundamentals, and combinatorial proofs.</p>",
+        "category": "Mathematical Foundations"
+    },
+    {
+        "id": "linear-algebra-abstract",
+        "title": "Linear Algebra with Abstract Vector Spaces (MATH 1564)",
+        "provider": "Georgia Tech",
+        "date": "Fall 2024",
+        "description": "<p>Rigorous study of vector spaces, linear transformations, eigenvalues, inner product spaces, and proofs in abstract linear algebra.</p>",
+        "category": "Mathematical Foundations"
+    },
+    {
+        "id": "second-linear-algebra",
+        "title": "Second Course in Linear Algebra (MATH 3406)",
+        "provider": "Georgia Tech",
+        "date": "Spring 2025",
+        "description": "<p>Advanced linear algebra topics including spectral theory, canonical forms, advanced eigenvalue theory, and deeper structural analysis.</p>",
+        "category": "Upper-Level Mathematics"
+    },
+    {
+        "id": "probability-theory",
+        "title": "Probability Theory (MATH 3235)",
+        "provider": "Georgia Tech",
+        "date": "Fall 2025",
+        "description": "<p>Measure-based probability, random variables, expectation, variance, limit theorems, and rigorous probabilistic reasoning.</p>",
+        "category": "Upper-Level Mathematics"
+    },
+    {
+        "id": "statistical-theory",
+        "title": "Statistical Theory (MATH 3236)",
+        "provider": "Georgia Tech",
+        "date": "Spring 2026",
+        "description": "<p>Statistical inference including estimation theory, likelihood methods, hypothesis testing, Fisher information, and asymptotic theory.</p>",
+        "category": "Upper-Level Mathematics"
+    },
+    {
+        "id": "data-structures-algorithms",
+        "title": "Data Structures & Algorithms (CS 1332)",
+        "provider": "Georgia Tech",
+        "date": "Spring 2025",
+        "description": "<p>Implementation and analysis of fundamental data structures including trees, heaps, hash tables, and graph traversal algorithms.</p>",
+        "category": "Theoretical Computer Science"
+    },
+    {
+        "id": "algorithms-honors",
+        "title": "Algorithms Honors (CS 3511)",
+        "provider": "Georgia Tech",
+        "date": "Fall 2025",
+        "description": "<p>Advanced algorithm design and analysis including greedy methods, divide-and-conquer, dynamic programming, network flows, and complexity analysis.</p>",
+        "category": "Theoretical Computer Science"
+    },
+    {
+        "id": "advanced-algorithms",
+        "title": "Advanced Algorithms (CS 4540)",
+        "provider": "Georgia Tech",
+        "date": "Spring 2026",
+        "description": "<p>Graduate-level algorithmic techniques including randomized algorithms, approximation algorithms, online algorithms, and advanced combinatorial optimization.</p>",
+        "category": "Theoretical Computer Science"
+    },
+    {
+        "id": "online-decision-making",
+        "title": "Theory of Online Decision Making (CS 8803)",
+        "provider": "Georgia Tech",
+        "date": "Spring 2026",
+        "description": "<p>Graduate course on online algorithms and learning theory, covering competitive analysis, regret minimization, and adversarial models.</p>",
+        "category": "Theoretical Computer Science"
+    },
+    {
+        "id": "machine-learning",
+        "title": "Machine Learning (CS 4641)",
+        "provider": "Georgia Tech",
+        "date": "Spring 2026",
+        "description": "<p>Supervised and unsupervised learning including regression, classification, neural networks, and probabilistic modeling.</p>",
+        "category": "Artificial Intelligence"
+    },
+    {
+        "id": "intro-artificial-intelligence",
+        "title": "Introduction to Artificial Intelligence (CS 3600)",
+        "provider": "Georgia Tech",
+        "date": "Fall 2025",
+        "description": "<p>Search algorithms, game playing, probabilistic reasoning, and foundational AI methods.</p>",
+        "category": "Artificial Intelligence"
+    },
+    {
+        "id": "computer-organization",
+        "title": "Computer Organization & Programming (CS 2110)",
+        "provider": "Georgia Tech",
+        "date": "Spring 2025",
+        "description": "<p>Low-level systems programming, assembly language, memory hierarchy, and computer architecture fundamentals.</p>",
+        "category": "Systems"
+    },
+    {
+        "id": "systems-networks",
+        "title": "Systems and Networks (CS 2200)",
+        "provider": "Georgia Tech",
+        "date": "Fall 2025",
+        "description": "<p>Operating systems concepts including processes, concurrency, synchronization, memory management, and networking fundamentals.</p>",
+        "category": "Systems"
+    },
+    {
+        "id": "intro-linguistics",
+        "title": "Introduction to Linguistics (LING 2100)",
+        "provider": "Georgia Tech",
+        "date": "Fall 2024",
+        "description": "<p>Foundations of linguistic theory including phonology, morphology, syntax, semantics, and formal language structure.</p>",
+        "category": "Humanities"
+    },
+    {
+        "id": "objects-and-design",
+        "title": "Objects and Design (CS 2340)",
+        "provider": "Georgia Tech",
+        "date": "Spring 2025",
+        "description": "<p>Object-oriented design and large-scale software development. Covered OOP principles, SOLID and GRASP design principles, design patterns, system architecture styles (MVC, layered architecture), and team-based software engineering practices.</p>",
+        "category": "Software Engineering"
+    }
+]

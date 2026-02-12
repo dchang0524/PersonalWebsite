@@ -1,0 +1,38 @@
+[
+    {
+        "title": "AlphaChicken: Adversarial Game AI",
+        "description": "A high-performance partial-information game AI ranked 1st out of 104 teams in a competitive AI tournament for multiple days. Uses bitboards, optimized search routines, and a dynamic evaluation function incorporating Voronoi territory and Bayesian risk modeling.",
+        "tech": ["Python", "C++", "Numba", "Alpha-Beta Search", "Bitboards"],
+        "github": "https://github.com/dchang0524/AlphaChicken",
+        "link": ""
+    },
+    {
+        "title": "FastSSSP",
+        "description": "Implementation of the paper \"Breaking the Sorting Barrier for Directed Single-Source Shortest Paths.\" Engineered specialized data structures to bridge theoretical abstractions and practical performance, analyzing gaps between asymptotic and empirical results.",
+        "tech": ["Python", "Graph Algorithms", "Shortest Paths", "Data Structures"],
+        "github": "https://github.com/dchang0524/FastSSSP",
+        "link": ""
+    },
+    {
+        "title": "FastKnapsack",
+        "description": "A unified C++ pipeline synthesizing algorithms from multiple theoretical papers for knapsack and coin change problems. Designed new randomization techniques achieving significant practical speedups over baseline implementations.",
+        "tech": ["C++", "Fast Fourier Transform","Dynamic Programming", "Randomized Algorithms", "Algorithm Engineering"],
+        "github": "https://github.com/dchang0524/FastKnapsack",
+        "link": ""
+    },
+    {
+        "title": "Mathpix: Handwritten Equation Solver",
+        "description": "A hackathon-winning pipeline that converts handwritten math expressions into symbolic form and solves them using integrated APIs. Combines image processing, language models, and computational algebra systems.",
+        "tech": ["Python", "MATLAB", "Wolfram API", "Claude API", "Image Processing"],
+        "github": "https://github.com/dchang0524/aiatl",
+        "link": ""
+    },
+    {
+        "title": "ICPC-0: Competitive Programming Solutions",
+        "description": "A repository of high-level competitive programming solutions, featuring advanced graph algorithms, dynamic programming optimizations, combinatorics, number theory, and constructive techniques. Emphasis on efficient C++ implementations and contest-grade problem solving.",
+        "tech": ["C++", "Graph Algorithms", "Dynamic Programming", "Combinatorics", "Number Theory"],
+        "github": "https://github.com/dchang0524/ICPC-0",
+        "link": ""
+    }
+
+]

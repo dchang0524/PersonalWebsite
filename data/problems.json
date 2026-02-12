@@ -1,0 +1,190 @@
+[
+    {
+        "id": "2120G",
+        "title": "Eulerian Line Graph",
+        "rating": 3000,
+        "source": "Codeforces",
+        "link": "https://codeforces.com/problemset/problem/2120/G",
+        "category": "Competitive Programming"
+    },
+    {
+        "id": "2039F1",
+        "title": "Shohag Loves Counting (Easy Version)",
+        "rating": 2800,
+        "source": "Codeforces",
+        "link": "https://codeforces.com/contest/2039/problem/F1",
+        "category": "Competitive Programming"
+    },
+    {
+        "id": "2029F",
+        "title": "Palindrome Everywhere",
+        "rating": 2500,
+        "source": "Codeforces",
+        "link": "https://codeforces.com/contest/2029/problem/F",
+        "category": "Competitive Programming"
+    },
+    {
+        "id": "2049E",
+        "title": "Broken Queries",
+        "rating": 2400,
+        "source": "Codeforces",
+        "link": "https://codeforces.com/contest/2049/problem/E",
+        "category": "Competitive Programming",
+        "images": [
+            "https://placehold.co/600x400/112240/64ffda?text=Example+Image+1",
+            "https://placehold.co/600x400/112240/64ffda?text=Example+Image+2"
+        ]
+    },
+    {
+        "id": "arc201_d",
+        "title": "Match, Mod, Minimize",
+        "rating": 2338,
+        "source": "AtCoder ARC 201",
+        "link": "https://atcoder.jp/contests/arc201/tasks/arc201_d",
+        "category": "Competitive Programming"
+    },
+    {
+        "id": "2036G",
+        "title": "Library of Magic",
+        "rating": 2200,
+        "source": "Codeforces",
+        "link": "https://codeforces.com/contest/2036/problem/G",
+        "category": "Competitive Programming"
+    },
+    {
+        "id": "2136F1",
+        "title": "From The Unknown (Easy Version)",
+        "rating": 2100,
+        "source": "Codeforces",
+        "link": "https://codeforces.com/contest/2136/problem/F1",
+        "category": "Competitive Programming"
+    },
+    {
+        "id": "2032D",
+        "title": "Genokraken",
+        "rating": 1800,
+        "source": "Codeforces",
+        "link": "https://codeforces.com/contest/2032/problem/D",
+        "category": "Competitive Programming"
+    },
+    {
+        "id": "2071C",
+        "title": "Trapmigiano Reggiano",
+        "rating": 1700,
+        "source": "Codeforces",
+        "link": "https://codeforces.com/contest/2071/problem/C",
+        "category": "Competitive Programming"
+    },
+    {
+        "id": "2067D",
+        "title": "Object Identification",
+        "rating": 1400,
+        "source": "Codeforces",
+        "link": "https://codeforces.com/contest/2067/problem/D",
+        "category": "Competitive Programming"
+    },
+    {
+        "id": "CSES-1682",
+        "title": "Flight Routes Check",
+        "source": "CSES",
+        "link": "https://cses.fi/problemset/task/1682",
+        "category": "Competitive Programming"
+    },
+    {
+        "id": "apio07p2",
+        "title": "Backup",
+        "source": "DMOJ (APIO 2007 P2)",
+        "link": "https://dmoj.ca/problem/apio07p2",
+        "category": "Competitive Programming"
+    },
+    {
+        "id": "CF-Mean-Streets-647911",
+        "title": "Mean Streets of Gadgetzan",
+        "source": "Codeforces Group Contest",
+        "link": "https://codeforces.com/gym/103202/problem/C",
+        "category": "Competitive Programming"
+    },
+    {
+        "id": "izho-2022-6",
+        "title": "IZhO 2022/6",
+        "source": "IZhO 2022",
+        "link": "#",
+        "description": "<p>Determine whether there exist two bounded sequences of real numbers \\(a_1, a_2, \\dots\\) and \\(b_1, b_2, \\dots\\) such that</p><p>\\[ \\max(|a_m - a_n|, |b_m - b_n|) > \\frac{1}{\\sqrt{n}} \\]</p><p>holds for all positive integers \\(m > n\\).</p>",
+        "category": "Combinatorics"
+    },
+    {
+        "id": "otis-russian-bcx-11",
+        "title": "OTIS Russian BCX #11",
+        "source": "OTIS",
+        "link": "#",
+        "description": "<p>Each of the 41 dashed unit segments is independently colored either black or white, each with probability 1/2. The black segments form the walls of a maze (the white segments are passable).</p><p>What is the probability that there exists a path from side <strong>A</strong> to side <strong>B</strong> that does not cross any black lines?</p>",
+        "images": [
+            "images/otis_russian_bcx_p11.png"
+        ],
+        "category": "Combinatorics"
+    },
+    {
+        "id": "cayleys-formula-bijection",
+        "title": "Prove Cayley’s Formula (Using Bijection)",
+        "source": "MATH 3012",
+        "link": "https://en.wikipedia.org/wiki/Cayley%27s_formula",
+        "category": "Combinatorics"
+    },
+    {
+        "id": "usamo-2012-p2",
+        "title": "2012 USAMO Problem 2",
+        "source": "USAMO 2012",
+        "link": "https://artofproblemsolving.com/wiki/index.php/2012_USAMO_Problems/Problem_2",
+        "category": "Combinatorics"
+    },
+    {
+        "id": "10x10-diagonal-coloring",
+        "title": "10x10 Grid Coloring with No Diagonal Adjacency",
+        "source": "Friend",
+        "description": "<p>You are given a 10×10 grid of white tiles, and you want to color some tiles black. When coloring, you cannot color any two squares that are diagonally adjacent. How many ways are there to color exactly 50 squares black?</p>",
+        "category": "Combinatorics"
+    },
+    {
+        "id": "cmimc-2024-tcs-p2",
+        "title": "2024 CMIMC TCS P2",
+        "source": "CMIMC 2024",
+        "link": "https://drive.google.com/file/d/1ceoUzNFzZqYCNoPbzTGBwHyznHdKv5Xg/view",
+        "category": "Combinatorics"
+    },
+    {
+        "id": "usamo-2004-p4",
+        "title": "2004 USAMO Problem 4",
+        "source": "USAMO 2004",
+        "link": "https://artofproblemsolving.com/wiki/index.php/2004_USAMO_Problems/Problem_4",
+        "category": "Combinatorics"
+    },
+    {
+        "id": "hmmt-2015-c9",
+        "title": "2015 HMMT C9",
+        "source": "HMMT 2015",
+        "link": "https://artofproblemsolving.com/community/c129h1358940p7441260",
+        "category": "Combinatorics"
+    },
+    {
+        "id": "bamo-2017-p4",
+        "title": "2017 BAMO Problem 4",
+        "source": "BAMO 2017",
+        "link": "https://artofproblemsolving.com/community/p8651645",
+        "category": "Combinatorics"
+    },
+    {
+        "id": "usamo-2010-p6",
+        "title": "2010 USAMO Problem 6",
+        "source": "USAMO 2010",
+        "link": "https://artofproblemsolving.com/wiki/index.php?title=2010_USAMO_Problems/Problem_6",
+        "category": "Combinatorics"
+    },
+    {
+        "id": "NP-completeness",
+        "title": "Basic NP-Completeness",
+        "source": "CS 3511",
+        "description": "Starting from the fact that SAT is NP-complete, prove that the following problems are NP-complete: 3-SAT, Independent Set, Clique, Vertex Cover, Hitting Set, (directed) Hamiltonian Cycle, (undirected) Hamiltonian Cycle, (undirected) Hamiltonian Path, Travelling Salesman Problem, Subset Sum, 3-Coloring",
+        "link": "https://en.wikipedia.org/wiki/NP-completeness",
+        "category": "TCS"
+    }
+]

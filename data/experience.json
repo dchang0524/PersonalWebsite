@@ -1,0 +1,20 @@
+[
+    {
+        "role": "Research Assistant",
+        "company": "Seoul National University",
+        "date": "May 2025 - Aug 2025",
+        "description": "Worked on algorithm engineering problems at the intersection of theory and practice, focusing on knapsack and coin change variants. Synthesized ideas from seven theoretical papers into a unified C++ implementation pipeline. Reconstructed omitted implementation details and identified structural bottlenecks in the theoretical designs. Developed original randomized variants to improve practical performance, achieving up to 20× empirical speedups, and conducted experiments to validate theoretical guarantees."
+    },
+    {
+        "role": "Researcher",
+        "company": "Shreya R. Dixit Memorial Foundation – Innovation Labs",
+        "date": "July 2024 - Dec 2024",
+        "description": "Redesigned a safety-aware navigation system (Safemaps) by modeling risk as weighted edges rather than removing unsafe nodes. This allowed for a principled balance between safety and path efficiency while significantly improving algorithm runtime. Led a team of five students in implementing weighted A* heuristics and helped shape the overall algorithmic direction of the project."
+    },
+    {
+        "role": "Research Intern",
+        "company": "George Mason University – Aspiring Scientists’ Summer Internship Program",
+        "date": "June 2023 - Aug 2023",
+        "description": "Contributed to research on spatial navigation as a potential tool for Alzheimer’s treatment. Developed a Unity-based 3D maze game and designed adaptive maze-generation algorithms using DFS/BFS heuristics and knapsack-based difficulty control. Co-authored a paper published in GMU’s Journal of Student Scientists."
+    }
+]
