@@ -25,7 +25,7 @@
         "description": "A hackathon-winning pipeline that converts handwritten math expressions into symbolic form and solves them using integrated APIs. Combines image processing, language models, and computational algebra systems.",
         "tech": ["Python", "MATLAB", "Wolfram API", "Claude API", "Image Processing"],
         "github": "https://github.com/dchang0524/aiatl",
-        "link": ""
+        "link": "https://devpost.com/software/mathpix"
     },
     {
         "title": "ICPC-0: Competitive Programming Solutions",

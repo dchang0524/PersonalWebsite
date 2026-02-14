@@ -185,6 +185,6 @@
         "source": "CS 3511",
         "description": "Starting from the fact that SAT is NP-complete, prove that the following problems are NP-complete: 3-SAT, Independent Set, Clique, Vertex Cover, Hitting Set, (directed) Hamiltonian Cycle, (undirected) Hamiltonian Cycle, (undirected) Hamiltonian Path, Travelling Salesman Problem, Subset Sum, 3-Coloring",
         "link": "https://en.wikipedia.org/wiki/NP-completeness",
-        "category": "TCS"
+        "category": "Theoretical Computer Science"
     }
 ]

@@ -156,6 +156,52 @@ section {
     padding-top: 0;
 }
 
+.about-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12rem;
+}
+
+@media (max-width: 1200px) {
+    .about-wrapper {
+        gap: 6rem;
+    }
+}
+
+@media (max-width: 900px) {
+    .about-wrapper {
+        gap: 3rem;
+    }
+}
+
+.about-content {
+    flex: 1;
+}
+
+.about-image {
+    flex-shrink: 0;
+    width: 400px;
+    height: 400px;
+    position: relative;
+}
+
+.about-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 4px;
+    /* Soft square lookup or 50% for circle */
+    box-shadow: 0 10px 30px -10px var(--nav-bg);
+    border: 2px solid var(--primary-color);
+    transition: var(--transition);
+}
+
+.about-image:hover img {
+    transform: translateY(-5px);
+    box-shadow: 0 20px 30px -15px var(--nav-bg);
+}
+
 .about-content h1 {
     font-size: 4rem;
     color: var(--heading-color);
@@ -437,6 +483,40 @@ footer {
 
     .section-title::after {
         width: 100px;
+    }
+
+    .about-wrapper {
+        flex-direction: column-reverse;
+        /* Image on top? or bottom? usually top on mobile or strictly stacked. Let's do column-reverse to have text first then image? No, image first is common. Let's do column to have text top image bottom, or column-reverse for image top?
+                                         Actually, standard is Image Top, Text Bottom. Or Text Top, Image Bottom. 
+                                         Let's stick to default order (Text Left, Image Right) -> Stacked: Text Top, Image Bottom.
+                                         So flex-direction: column. 
+                                         Wait, if I want image on top on mobile, I need column-reverse IF HTML is Text then Image.
+                                         HTML is Text then Image. So column-reverse makes Image Top, Text Bottom.
+                                         Let's try that. */
+        flex-direction: column-reverse;
+        gap: 2rem;
+        text-align: center;
+    }
+
+    .about-image {
+        width: 200px;
+        height: 200px;
+        margin: 0 auto;
+    }
+
+    .about-content {
+        text-align: center;
+        /* Center text on mobile */
+    }
+
+    .bio {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .social-links {
+        justify-content: center;
     }
 }
 
