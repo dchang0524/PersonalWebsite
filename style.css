@@ -518,6 +518,11 @@ footer {
     .social-links {
         justify-content: center;
     }
+
+    #about {
+        padding-top: 100px;
+        align-items: flex-start;
+    }
 }
 
 .nav-active {

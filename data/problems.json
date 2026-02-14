@@ -29,11 +29,7 @@
         "rating": 2400,
         "source": "Codeforces",
         "link": "https://codeforces.com/contest/2049/problem/E",
-        "category": "Competitive Programming",
-        "images": [
-            "https://placehold.co/600x400/112240/64ffda?text=Example+Image+1",
-            "https://placehold.co/600x400/112240/64ffda?text=Example+Image+2"
-        ]
+        "category": "Competitive Programming"
     },
     {
         "id": "arc201_d",
